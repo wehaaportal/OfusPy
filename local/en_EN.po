@@ -1,0 +1,1 @@
+{"en_EN": [{"trName": "OfusPy", "trTitle": "Python Obfuscator", "trExitTitle": "Exit Application", "trExitBody": "Are you sure you want to exit?", "trOfusTitle": "Information", "trOfusBody": "full", "trSeleFile": "Select files", "trBtnFile": "Browse", "trBtnFolder": "Folder", "trBtnExit": "Close", "trBtnOfus": "Obfuscate"}]}

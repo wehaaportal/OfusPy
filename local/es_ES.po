@@ -1,0 +1,1 @@
+{"es_ES": [{"trName": "OfusPy", "trTitle": "Ofuscador Python", "trExitTitle": "Salir de la aplicaci\u00f3n", "trExitBody": "\u00bfEst\u00e1s seguro de que quieres salir?", "trOfusTitle": "Informaci\u00f3n", "trOfusBody": "Completo", "trSeleFile": "Seleccionar archivos", "trBtnFile": "Examinar", "trBtnFolder": "Carpeta", "trBtnExit": "Salir", "trBtnOfus": "Ofuscar"}]}
